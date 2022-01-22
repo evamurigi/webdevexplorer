@@ -1,0 +1,16 @@
+h1{
+    font-family: "Baskerville Old Face";
+    font-size: 30px;
+    color: brown;
+    text-align: center;
+}
+
+p{
+    color: chocolate;
+    font-family: "Trebuchet MS";
+    font-size: 20px;
+}
+
+body{
+    background: blueviolet;
+}
